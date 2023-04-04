@@ -1,2 +1,3 @@
 some text into it. 
 Testing something
+I am going to figure out how to use the text editor to write a longer commit
